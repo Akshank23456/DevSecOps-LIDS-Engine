@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Database & Audit Tables generated at runtime
+*.csv
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Operating System Caches
+.DS_Store
+Thumbs.db
